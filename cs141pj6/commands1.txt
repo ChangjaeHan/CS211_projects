@@ -1,4 +1,0 @@
-l cs141
-e cs141 psarkar3
-w cs141 noway 5
-q
