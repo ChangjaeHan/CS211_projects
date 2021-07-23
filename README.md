@@ -1,7 +1,11 @@
 # CS211_projects
 I've learned how to:
-1. utilize Pointer
-2. 
+1. utilize Pointer (double, triple pointer)
+2. utilize virtual, const, and static function
+3. differentiate C from C++
+4. use inheritance for class
+5. making board game
+6. handle complex code
 
 --------------------------------------------------------------------Programming in C-----------------------------------------------------------------------------------
 # Project1 #
@@ -37,7 +41,7 @@ This program is capable of:
 1. (project2~4)Connecting 4 typedef structs and utilizing Data diagram
 
 
-----------------------------------------------------------------------Now programming in C++--------------------------------------------------------------------------
+----------------------------------------------------------------------Programming in C++--------------------------------------------------------------------------
 # Project5 #
 // Collection points in 3D with class //
 
@@ -48,14 +52,21 @@ This program is capable of:
 
 # Project6 #
 // Polygons by using inheritance //
-1. 
+
+This program is capable of:
+1. Inheritance
+2. Virtual function for Polygon, Pointset
+3. Static and const function
 
 
 # Project7 #
-// Board game //
+// Board game // (pending, almost done)
 
-
-
+This program is capable of:
+1. All of the previous project
+2. Making a board and character
+3. Detecting collision
+4. AI depending on my main character
 
 
 
